@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#4f0e0d0e">
+
+        <TextView
+            android:id="@+id/menu_name"
+            android:text="Customer Name"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"/>
+
+        <TextView
+            android:id="@+id/custNumber"
+            android:text="Customer Number"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"/>
+
+        <TextView
+            android:id="@+id/tvEventType"
+            android:text="Event Type"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"/>
+
+
+        <TextView
+            android:id="@+id/tvEventDesc"
+            android:text="Event Description"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"/>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

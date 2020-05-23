@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FirebaseEvents</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="email">Email ID</string>
+    <string name="username">Username (Minimum 4 characters)</string>
+    <string name="phone">Phone Number</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password (Minimum 8 characters)</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_btn">Start Playing</string>
+    <string name="reset_link">Send Reset Link</string>
+    <string name="new_user">New User?</string>
+    <string name="signup">Signup</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="invalid_credentials_text">Please enter valid email ID and password to continue. In case you have trouble logging in, please use the forgot password option."</string>
+    <string name="existing_user">Already a member?</string>
+    <string name="dob">Date of Birth</string>
+    <string name="referral_code">Referral Code (Optional)</string>
+    <string name="email_required">Emasignupil address is required.</string>
+    <string name="username_required">Username is required</string>
+    <string name="valid_email">Please enter a valid email address.</string>
+    <string name="password_required">Password is required.</string>
+    <string name="val_password">Password should have atleast 8 characters</string>
+    <string name="valid_date">Minimum age should be 18 years</string>
+    <string name="event_desc">Event Description</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_Type">Event Type</string>
+    <string name="create_event">Create</string>
+    <string name="view_event">View Events</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629216181376",
+    "firebase_url": "https://fir-events-c1934.firebaseio.com",
+    "project_id": "fir-events-c1934",
+    "storage_bucket": "fir-events-c1934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629216181376:android:105ac1426087d2a7f17a65",
+        "android_client_info": {
+          "package_name": "com.test.firebaseevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629216181376-jk1b5k0pr339va15gn58at3r57m59lma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwTUFPCyLxKuakomPyZ5RxEjcqrjvAkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629216181376-jk1b5k0pr339va15gn58at3r57m59lma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
